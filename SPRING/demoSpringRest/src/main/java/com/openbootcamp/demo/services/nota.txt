@@ -1,0 +1,1 @@
+Comunicará el controlador con nuestro modelo.

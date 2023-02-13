@@ -1,0 +1,1 @@
+Un controlador es lo que va a recibir las peticiones por http y va a procesarlas.
